@@ -1,0 +1,7 @@
+.venv/
+.git*
+__pycache__/
+*.md
+local.settings.json
+talk.py
+upload_data.py

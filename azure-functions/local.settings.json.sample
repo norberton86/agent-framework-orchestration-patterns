@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+
+    "FOUNDRY_PROJECT_ENDPOINT": "https://<account>.services.ai.azure.com/api/projects/<project>",
+    "FOUNDRY_MODEL": "gpt-4o",
+
+    "VEHICLES_FILE_ID": "<run upload_data.py>",
+    "LOAN_OPTIONS_FILE_ID": "<run upload_data.py>",
+
+    "DURABLE_TASK_SCHEDULER_CONNECTION_STRING": "Endpoint=<scheduler>;Authentication=DefaultAzure"
+  }
+}

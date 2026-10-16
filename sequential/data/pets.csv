@@ -1,0 +1,6 @@
+pet_name,type,size,energy,noise,apartment_friendly
+Bunny,Rabbit,Small,Low,Low,Yes
+Max,Dog,Large,High,Medium,No
+Milo,Cat,Medium,Medium,Low,Yes
+Nibbles,Guinea Pig,Small,Low,Low,Yes
+Daisy,Hamster,Small,Low,Low,Yes
